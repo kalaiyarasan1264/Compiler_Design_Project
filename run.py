@@ -1,5 +1,5 @@
 from code_generator import FinalCodes
-
+from parser import Parser
 from scanner import Scanner
 from scanner import FINAL_STATES, TRANSITIONS, KEYWORDS
 import resource, sys
